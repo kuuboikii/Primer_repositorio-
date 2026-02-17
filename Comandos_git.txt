@@ -10,3 +10,5 @@ git add .
 git commit -m "Listo para subir 
 git commit -m "Segundo commit"
 git remote add origin https://github.com/kuuboikii/Primer_repositorio-.git
+git push -u origin master
+git commit -m "Tercer commit"
