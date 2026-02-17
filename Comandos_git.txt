@@ -7,4 +7,6 @@ git config user.email
 clear
 git status
 git add . 
-git commit "Listo para subir 
+git commit -m "Listo para subir 
+git commit -m "Segundo commit"
+git remote add origin https://github.com/kuuboikii/Primer_repositorio-.git
