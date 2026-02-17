@@ -6,3 +6,5 @@ git config user.name
 git config user.email
 clear
 git status
+git add . 
+git commit "Listo para subir 
